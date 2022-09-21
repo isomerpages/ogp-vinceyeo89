@@ -2,8 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Content
+    url: /content/
   - title: Example Folder
     collection: example-folder
   - title: Hello
