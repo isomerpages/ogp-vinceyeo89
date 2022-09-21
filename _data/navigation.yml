@@ -4,7 +4,7 @@ links:
     url: /content
   - title: Hello
     collection: hello
-  - title: Example Folder
-    collection: example-folder
+  - title: Another Folder
+    collection: another-folder
   - title: Contact Us
     url: /contact-us/
