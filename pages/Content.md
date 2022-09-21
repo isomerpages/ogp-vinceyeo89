@@ -3,6 +3,9 @@ title: Content
 permalink: /content/
 description: ""
 ---
+
+![](/images/isomer-logo.svg)
+
 <p style="margin-left: 2.5em;padding: 0 7em 2em 0;border-width: 2px; border-color: black; border-style:solid;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yRh-dzrI4Z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</p>
