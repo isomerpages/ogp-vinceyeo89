@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Hero title
       subtitle: This is hero subtitle!
-      background: /images/hero-banner.png
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
