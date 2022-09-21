@@ -16,6 +16,7 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
+      background: /images/sea-wave-storm-fiction-wallpaper-preview.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
